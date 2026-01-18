@@ -10,13 +10,13 @@
     "ejs": "^2.3.4",
     "express": "^4.13.3",
     "method-override": "^2.3.5",
+    "errorhandler": "^1.4.2",
     "morgan": "^1.6.1",
     "vue": "^1.0.10",
     "vue-resource": "^0.1.17"
   },
   "devDependencies": {
-    "body-parser": "^1.14.1",
-    "errorhandler": "^1.4.2"
+    "body-parser": "^1.14.1"
   },
   "scripts": {
     "start": "node server.js"
