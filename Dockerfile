@@ -9,4 +9,4 @@ COPY . .
 
 EXPOSE 9090
 
-CMD ["node", "server.js"]
+CMD ["sh", "-c", "node server.js"]
